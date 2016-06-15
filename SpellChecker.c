@@ -1,3 +1,18 @@
+/* Background:
+ This sample program does the job of a simple spell checker efficiently.
+ The main idea is to compare a given word to a dictionary using the edit distance algorithm
+ The algorithm points out a misspelled word and offer for each such word a correction */
+
+// Keywords:
+// 1. Dynamic Programming
+// 2. Edit Distance Algorithm
+// 3. Divide and Conquer Sorting Algorithm
+// 4. Binary Searching
+
+/* Author: Bipul Mohanto
+   Color in Informatics and MEdia Technology
+   University Jean Monnet, France */
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdio.h>
